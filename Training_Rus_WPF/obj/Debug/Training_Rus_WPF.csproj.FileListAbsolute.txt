@@ -1,0 +1,20 @@
+C:\Users\Руслан\source\repos\Training_Rus_WPF\Training_Rus_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Руслан\source\repos\Training_Rus_WPF\Training_Rus_WPF\obj\Debug\App.g.cs
+C:\Users\Руслан\source\repos\Training_Rus_WPF\Training_Rus_WPF\obj\Debug\MainWindow.baml
+C:\Users\Руслан\source\repos\Training_Rus_WPF\Training_Rus_WPF\obj\Debug\Training_Rus_WPF.Properties.Resources.resources
+C:\Users\Руслан\source\repos\Training_Rus_WPF\Training_Rus_WPF\obj\Debug\Training_Rus_WPF.csproj.GenerateResource.cache
+C:\Users\Руслан\source\repos\Training_Rus_WPF\Training_Rus_WPF\obj\Debug\Training_Rus_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\source\repos\Training_Rus_WPF\Training_Rus_WPF\obj\Debug\App.baml
+C:\Users\Руслан\source\repos\Training_Rus_WPF\Training_Rus_WPF\obj\Debug\FormInputed.g.cs
+C:\Users\Руслан\source\repos\Training_Rus_WPF\Training_Rus_WPF\obj\Debug\FormInputed.baml
+C:\Users\Руслан\source\repos\Training_Rus_WPF\Training_Rus_WPF\obj\Debug\Training_Rus_WPF.csprojAssemblyReference.cache
+C:\Users\Руслан\source\repos\Training_Rus_WPF\Training_Rus_WPF\obj\Debug\instructions.g.cs
+C:\Users\Руслан\source\repos\Training_Rus_WPF\Training_Rus_WPF\obj\Debug\instructions.baml
+C:\Users\Руслан\source\repos\Training_Rus_WPF\Training_Rus_WPF\bin\Debug\Тренажер по русскому языку.exe.config
+C:\Users\Руслан\source\repos\Training_Rus_WPF\Training_Rus_WPF\bin\Debug\Тренажер по русскому языку.exe
+C:\Users\Руслан\source\repos\Training_Rus_WPF\Training_Rus_WPF\bin\Debug\Тренажер по русскому языку.pdb
+C:\Users\Руслан\source\repos\Training_Rus_WPF\Training_Rus_WPF\obj\Debug\Тренажер по русскому языку_MarkupCompile.cache
+C:\Users\Руслан\source\repos\Training_Rus_WPF\Training_Rus_WPF\obj\Debug\Тренажер по русскому языку_MarkupCompile.lref
+C:\Users\Руслан\source\repos\Training_Rus_WPF\Training_Rus_WPF\obj\Debug\Тренажер по русскому языку.g.resources
+C:\Users\Руслан\source\repos\Training_Rus_WPF\Training_Rus_WPF\obj\Debug\Тренажер по русскому языку.exe
+C:\Users\Руслан\source\repos\Training_Rus_WPF\Training_Rus_WPF\obj\Debug\Тренажер по русскому языку.pdb
